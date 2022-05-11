@@ -16,6 +16,8 @@ processPointClouds.h
 processPointClouds.cpp
 /home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.cpp
 
+/home/workspace/Lidar-Obstacle-Detection/src/kdTree.h
+
 /home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.cpp
 processPointClouds.h
 /home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.h
@@ -49,10 +51,12 @@ ctime
 -
 chrono
 -
-render/box.h
-/home/workspace/Lidar-Obstacle-Detection/src/render/box.h
 unordered_set
 -
+render/box.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/box.h
+kdTree.h
+/home/workspace/Lidar-Obstacle-Detection/src/kdTree.h
 
 /home/workspace/Lidar-Obstacle-Detection/src/render/box.h
 Eigen/Geometry
