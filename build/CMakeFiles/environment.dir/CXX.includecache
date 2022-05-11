@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/environment.cpp
+/home/workspace/Lidar-Obstacle-Detection/src/environment.cpp
 sensors/lidar.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/sensors/lidar.h
+/home/workspace/Lidar-Obstacle-Detection/src/sensors/lidar.h
 render/render.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/render.h
 processPointClouds.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.h
 processPointClouds.cpp
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.cpp
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.cpp
 processPointClouds.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.h
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/workspace/Lidar-Obstacle-Detection/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -50,17 +50,19 @@ ctime
 chrono
 -
 render/box.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/box.h
+unordered_set
+-
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/box.h
 Eigen/Geometry
 -
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/box.h
 iostream
 -
 vector
@@ -68,9 +70,9 @@ vector
 string
 -
 
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/sensors/lidar.h
+/home/workspace/Lidar-Obstacle-Detection/src/sensors/lidar.h
 ../render/render.h
-/home/workspace/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/workspace/Lidar-Obstacle-Detection/src/render/render.h
 ctime
 -
 chrono
